@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TargetedCategoryPromotion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TargetedCategoryPromotion_jar</output-path>
+    <root id="archive" name="TargetedCategoryPromotion.jar">
+      <element id="module-output" name="targetedcategorypromotion-build" />
+      <element id="module-output" name="targetedcategorypromotion" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="targetedcategorypromotion" />
+    </root>
+  </artifact>
+</component>

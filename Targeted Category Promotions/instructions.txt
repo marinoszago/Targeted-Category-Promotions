@@ -1,0 +1,10 @@
+1) open terminal on the project's folder root
+2) run the following command which is based on
+   the fact that spark-submit is already on a path variable
+3) the following also runs on the IDE by main function
+
+About adjusted rand, in program the evaluation of best K is in comments
+for time simplicity. So if you want to test the Adjusted run you should
+uncomment the lines 76 in main.
+
+
